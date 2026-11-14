@@ -1,10 +1,10 @@
 ### Hi, I'm Eduards 👋
 
-QA Team Lead and Principal SDET from Riga, Latvia. I've been in test automation since 2013, and these days I mostly build AI tooling for QA: MCP servers, RAG and agents that write and maintain tests.
+QA Team Lead and Principal SDET from Riga, Latvia. I've been in test automation since 2013, and these days I mostly build AI tooling for development & QA: MCP servers, RAG and agents that write and maintain tests.
 
 **What I work with**
 
-- **AI for QA:** MCP servers, RAG, Claude Code, Grok Build, Antigravity, Copilot CLI, Cursor
+- **AI for development & QA:** MCP servers, RAG, Claude Code, Grok Build, Antigravity, Copilot CLI, Cursor
 - **TestOps:** GitLab CI/CD, Docker, SonarQube quality gates, Allure
 - **Testing:** Playwright, Jest, Selenium, Appium, Cucumber, Tosca
 - **Languages:** TypeScript, Java
