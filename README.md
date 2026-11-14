@@ -7,7 +7,7 @@ QA Team Lead and Principal SDET from Riga, Latvia. I've been in test automation 
 - **Testing:** Playwright, Jest, Selenium, Appium, Cucumber, Tosca
 - **Languages:** TypeScript, Java
 - **TestOps:** GitLab CI/CD, Docker, SonarQube quality gates, Allure
-- **AI for QA:** MCP servers, RAG, Claude Code, Copilot CLI, Cursor
+- **AI for QA:** MCP servers, RAG, Claude Code, Grok Build, Antigravity, Copilot CLI, Cursor
 
 **Side projects**
 
